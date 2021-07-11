@@ -20,7 +20,7 @@
 <details>
 <summary>Kali Green</summary>
 <img src="kali-green/green-kali-abstract-sky-16x9.png" width="500">
-<img src="kali-green/green-kali-abstract-sky-dark-16x9.png" width="500">
+<img src="kali-green/green-kali-abstract-sky-dark-16x9.jpg" width="500">
 <img src="kali-green/green-kali-ascii-16x9.png" width="500">
 <img src="kali-green/green-kali-contours-16x9.png" width="500">
 <img src="kali-green/green-kali-dark-16x9.png" width="500">
@@ -50,7 +50,7 @@
 <details>
 <summary>Kali Yellow</summary>
 <img src="kali-yellow/yellow-kali-abstract-sky-16x9.png" width="500">
-<img src="kali-cyan/cyan-kali-abstract-sky-dark-16x9.jpg" width="500">
+<img src="kali-yellow/yellow-kali-abstract-sky-dark-16x9.jpg" width="500">
 <img src="kali-yellow/yellow-kali-ascii-16x9.png" width="500">
 <img src="kali-yellow/yellow-kali-contours-16x9.png" width="500">
 <img src="kali-yellow/yellow-kali-dark-16x9.png" width="500">
