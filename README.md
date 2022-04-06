@@ -1,7 +1,11 @@
-# Kali Recolored Wallpapers
-![collage](https://user-images.githubusercontent.com/59175356/125211412-daebb780-e2ae-11eb-869c-5492327f3e8a.png)
+<!-- BANNER -->
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/59175356/161945350-3772c02f-8696-4066-a2ef-31e392ac6233.png" alt="Recolored Kali Wallpapers" width="1000">
+  <br>
+  <a>Recolored Kali Wallpapers</a>
+</h1>
 
-
+<div align="center">
 <details>
 <summary>Kali Red</summary>
 <img src="kali-red/red-kali-abstract-sky-16x9.png" width="500">
@@ -61,3 +65,9 @@
 <img src="kali-yellow/yellow-kali-nova-16x9.png" width="500">
 <img src="kali-yellow/yellow-kali16x9.jpg" width="500">
 </details> 
+</div>
+
+<!-- LICENSE -->
+<h2>License</h2>
+
+Distributed under the GPL V3 License. See `LICENSE` for more information
