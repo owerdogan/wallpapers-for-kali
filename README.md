@@ -70,4 +70,4 @@
 <!-- LICENSE -->
 <h2>License</h2>
 
-Distributed under the GPL V3 License. See `LICENSE` for more information
+Distributed under the MIT License. See `LICENSE` for more information
