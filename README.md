@@ -1,8 +1,9 @@
 <!-- BANNER -->
+  <h1>Recolored Kali Wallpapers</h1>
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/59175356/161945350-3772c02f-8696-4066-a2ef-31e392ac6233.png" alt="Recolored Kali Wallpapers" width="1000">
   <br>
-  <a>Recolored Kali Wallpapers</a>
+  <p>This project will be updated according to requests</p>
 </h1>
 
 <div align="center">
